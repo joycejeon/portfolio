@@ -1,0 +1,22 @@
+h1 {color:MediumSeaGreen; text-align: center; font-size: 50px}
+
+/*img {display: block; margin-left: auto; margin-right: auto}
+img {transform: scale(0.6, 0.7)}*/
+
+
+body {
+    background-color: LightCyan;}
+
+img {
+  height: 450px;
+    width: auto;
+}
+
+#avobutt {
+  background-color: MediumSeaGreen; /* Green */
+  font-size: 18px;
+  font-family: monospace;
+
+
+  font-weight: bold;
+}
