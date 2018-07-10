@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Avocados</title>
+
+    <style>
+      body {
+        font-family: "Courier", monospace;
+      }
+    </style>
+
+    <link
+    rel="stylesheet"
+    href=ColorWeb.css>
+    <link rel="stylesheet" href=ColorWeb.css>
+    <script src="FirstWebPage.js"></script>
+  </head>
+
+  <body>
+    <button id="avobutt" onclick="window.location.href='https://tinyurl.com/avobutt'">Pictures of Avocados</button>
+
+    <h1 id="centerbeg" >Avocados!
+      <br>
+    <button
+      <div>
+        <img src="https://draxe.com/wp-content/uploads/2014/05/Avocado_Background.jpg" onclick="window.location.href='https://tinyurl.com/AvoRecipes'">
+      </div>
+      </button>
+    </h1>
+
+
+    <h3>About:</h3>
+    The avocado is a tree, long thought to have originated in South Central Mexico, classified as a member of the flowering plant family Lauraceae. The fruit of the plant, also called an avocado (or avocado pear or alligator pear), is botanically a large berry containing a single large seed known as a "pit" or a "stone".
+    Avocados are commercially valuable and are cultivated in tropical and Mediterranean climates throughout the world.They have a green-skinned, fleshy body that may be pear-shaped, egg-shaped, or spherical. Commercially, they ripen after harvesting. Avocado trees are partially self-pollinating and are often propagated through grafting to maintain a predictable quality and quantity of the fruit.
+
+
+    <p>
+    <h3>Benefits:</h3>
+    Avocados are a nutrient-dense fruit that contain about 20 vitamins and minerals. Given its nutritious makeup, there are many avocado benefits. These include better heart and digestive health; healthy skin, hair and eyes; cancer prevention and weight loss, among others.
+    </p>
+
+    <p>
+    <h3>Side Effects:</h3>
+    Most foods will cause weight gain if you eat too much, but avocados are more likely than other fruits to contribute to this side effect.
+    </p>
+
+    <p>
+    <h3>Special Precautions & Warnings:</h3>
+    Pregnancy and breast-feeding: There is not enough reliable information about the safety of taking avocado as medicine if you are pregnant or breastfeeding. Stay on the safe side and stick to food amounts.
+    <br>
+    Latex allergy: People who are sensitive to latex can have an allergic reaction to avocado.
+    </p>
+
+    <p>
+    <h3>Fun Fact:</h3>
+    There are 1,062 varieties of avocado and a single avocado tree can produce up to 500 avocados per year.
+    </p>
+
+    <a href="https://en.wikipedia.org/wiki/Avocado">All About Avocados</a>
+
+    <br>
+
+  </body>
+</html>
